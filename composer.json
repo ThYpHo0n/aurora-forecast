@@ -1,0 +1,13 @@
+{
+    "name": "thyphoon/aurora-forecast",
+    "description": "My very own aurora forecast service",
+    "authors": [
+        {
+            "name": "Niklas Grebe",
+            "email": "niklas.grebe@innogames.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "*"
+    }
+}
