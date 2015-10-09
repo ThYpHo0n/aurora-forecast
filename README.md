@@ -4,4 +4,7 @@ I crawl an image of the northern hemisphere from services.swpc.noaa.gov and anal
 If the analyse was successfull and it's likely to see an aurora at my location i do a get request to my IFTTT maker channel to receive a push message on my smartphone. 
 
 # todo
-Add ocr for fun (thiagoalessio/tesseract_ocr) to read the forecast times from the image
+* Add sunrise/sunset
+* Add moon phases
+* Add KP index
+* Add ocr for fun (thiagoalessio/tesseract_ocr) to read the forecast times from the image
